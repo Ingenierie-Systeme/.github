@@ -6,7 +6,7 @@ Welcome to the course repository!
 ## 📚 Course resources
 
 ### Introduction
-- [Slides](https://github.com/Ingenierie-Systeme/.github/educational_ressources/2026/261014_IS_intro.pdf)
+- [Slides](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261014_IS_intro.pdf)
 
 ### 3D Dynamic and realist simulations
 In this part of the course, you will learn how to:
@@ -16,7 +16,7 @@ In this part of the course, you will learn how to:
 - Develop a Software-in-the-Loop (SIL) architecture for autonomous robotics projects.
 
 **Course materials:**
-- [Lecture Slides (PDF)](https://github.com/Ingenierie-Systeme/.github/educational_ressources/2026/261014_simulationDynamicPoly.pdf)
+- [Lecture Slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261014_simulationDynamicPoly.pdf)
 
 **🎥 Video Tutorials: Unity and ROS 2**
 Follow this video series to learn how to set up a robotics simulator, integrate it with ROS 2, and develop a complete software architecture for autonomous robots.
@@ -31,7 +31,7 @@ Follow this video series to learn how to set up a robotics simulator, integrate 
 ### AUV Mechanical and Electronic Design
 This section covers the key mechanical and electronic concepts involved in the design of an Autonomous Underwater Vehicle (AUV).
 - **Mechanical design:** Course materials coming soon
-- **Electronics:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/educational_ressources/2026/251028_coursElec.pdf)
+- **Electronics:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/251028_coursElec.pdf)
 
 
 ## 👥 Student projects
