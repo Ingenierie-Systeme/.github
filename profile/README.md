@@ -19,14 +19,15 @@ In this part of the course, you will learn how to:
 - [Lecture Slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261014_simulationDynamicPoly.pdf)
 
 **🎥 Video Tutorials: Unity and ROS 2**
-Follow this video series to learn how to set up a robotics simulator, integrate it with ROS 2, and develop a complete software architecture for autonomous robots.
+Follow this French video series to learn how to set up a robotics simulator, integrate it with ROS 2, and develop a complete software architecture for autonomous robots.
 
-0. **Introduction and project overview** — ▶️ [Watch video](https://youtu.be/6t4ymVSfwPo)
-2. **Installing Unity, ROS2 and ROS-TCP-Connector** — ⏳ Coming soon
-4. **Subscribing to Laser messages** — ⏳ Coming soon
-5. **Publishing Velocity Commands (Twist)** — ⏳ Coming soon
-6. **Setting Up a Camera Image Server** — ⏳ Coming soon
-7. **Developing autonomous navigation algorithms** — ⏳ Coming soon
+1. **Installing Unity, ROS2 and ROS-TCP-Connector** - ▶️ [Watch video](https://youtu.be/6t4ymVSfwPo)
+2. **Unity 3D on Ubuntu 24.04: Getting Started and Physics Simulation** - ▶️ [Watch video](https://youtu.be/uea0uhqWZo8)
+3. **Unity 3D: Controlling a Robot with a Gamepad and Handling Collisions (C#)** - ▶️ [Watch video](https://www.youtube.com/watch?v=3w-u7QyUMXs)
+4. **Subscribing to Laser messages** - ⏳ Coming soon
+5. **Publishing Velocity Commands (Twist)** - ⏳ Coming soon
+6. **Setting Up a Camera Image Server** - ⏳ Coming soon
+7. **Developing autonomous navigation algorithms** - ⏳ Coming soon
 
 ### AUV Mechanical and Electronic Design
 This section covers the key mechanical and electronic concepts involved in the design of an Autonomous Underwater Vehicle (AUV).
