@@ -16,7 +16,7 @@ In this part of the course, you will learn how to:
 - Develop a Software-in-the-Loop (SIL) architecture for autonomous robotics projects.
 
 **Course materials:**
-- [Lecture Slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261014_simulationDynamicPoly.pdf)
+- [Exercise Book (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261014_simulationDynamicPoly.pdf)
 
 **🎥 Video Tutorials: Unity and ROS 2**
 Follow this French video series to learn how to set up a robotics simulator, integrate it with ROS 2, and develop a complete software architecture for autonomous robots.
