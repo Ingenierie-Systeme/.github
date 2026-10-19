@@ -25,17 +25,28 @@ Follow this French video series to learn how to set up a robotics simulator, int
 
 Follow this French video series to learn how to set up a robotics simulator, integrate it with ROS 2, and develop a complete software architecture for autonomous robots.
 
+
 1. **Installing Unity, ROS 2 and ROS-TCP-Connector** — ▶️ [Watch video](https://youtu.be/6t4ymVSfwPo)
 
-   [![Installing Unity, ROS 2 and ROS-TCP-Connector](https://img.youtube.com/vi/6t4ymVSfwPo/maxresdefault.jpg)](https://youtu.be/6t4ymVSfwPo)
+<a href="https://youtu.be/6t4ymVSfwPo">
+  <img src="https://img.youtube.com/vi/6t4ymVSfwPo/maxresdefault.jpg"
+       alt="Installing Unity, ROS 2 and ROS-TCP-Connector"
+       width="480">
+</a>
 
 2. **Unity 3D on Ubuntu 24.04: Getting Started and Physics Simulation** — ▶️ [Watch video](https://youtu.be/uea0uhqWZo8)
-
-   [![Unity 3D on Ubuntu 24.04: Getting Started and Physics Simulation](https://img.youtube.com/vi/uea0uhqWZo8/maxresdefault.jpg)](https://youtu.be/uea0uhqWZo8)
+<a href="https://youtu.be/uea0uhqWZo8">
+  <img src="https://img.youtube.com/vi/uea0uhqWZo8/maxresdefault.jpg"
+       alt="Unity 3D on Ubuntu 24.04: Getting Started and Physics Simulation"
+       width="480">
+</a>
 
 3. **Unity 3D: Controlling a Robot with a Gamepad and Handling Collisions (C#)** — ▶️ [Watch video](https://youtu.be/3w-u7QyUMXs)
-
-   [![Unity 3D: Controlling a Robot with a Gamepad and Handling Collisions (C#)](https://img.youtube.com/vi/3w-u7QyUMXs/maxresdefault.jpg)](https://youtu.be/3w-u7QyUMXs)
+<a href="https://youtu.be/3w-u7QyUMXs">
+  <img src="https://img.youtube.com/vi/3w-u7QyUMXs/maxresdefault.jpg"
+       alt="Unity 3D: Controlling a Robot with a Gamepad and Handling Collisions (C#)"
+       width="480">
+</a>
 4. **Subscribing to Laser messages** - ⏳ Coming soon
 5. **Publishing Velocity Commands (Twist)** - ⏳ Coming soon
 6. **Setting Up a Camera Image Server** - ⏳ Coming soon
