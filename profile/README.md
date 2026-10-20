@@ -52,6 +52,10 @@ Follow this French video series to learn how to set up a robotics simulator, int
 5. **Publishing Velocity Commands (Twist)** - ⏳ Coming soon
 6. **Setting Up a Camera Image Server** - ⏳ Coming soon
 
+### ROS2 cheat-sheet
+- **ROS2:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261020_IS_ros2.pdf)
+
+
 ### AUV Mechanical and Electronic Design
 This section covers the key mechanical and electronic concepts involved in the design of an Autonomous Underwater Vehicle (AUV).
 - **Mechanical design:** Course materials coming soon
