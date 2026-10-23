@@ -61,7 +61,7 @@ This section covers the key mechanical and electronic concepts involved in the d
 - **Mechanical design:** Course materials coming soon
 - **Electronics:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/251028_coursElec.pdf)
 
-
+You can find Onshape Public project here: [Link](https://cad.onshape.com/documents/cd397699ac8463901776717a/w/27da76be7460ab807f031224/e/96fd0b1bcbd0b8e1a3de0165)
 ## 👥 Student projects
 
 Each group has its own repository.
