@@ -62,6 +62,10 @@ This section covers the key mechanical and electronic concepts involved in the d
 - **Electronics:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/251028_coursElec.pdf)
 
 
+
+### System Engineering organization
+Follow this google sheet to get all information.
+[See Table](https://docs.google.com/spreadsheets/d/1Sro5dz5PTesyRuniJhez1GMf9z3j0gr0b48JlsBDI-k/edit?usp=sharing)
 ## 👥 Student projects
 
 Each group has its own repository.
