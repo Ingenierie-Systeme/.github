@@ -63,7 +63,7 @@ Follow this French video series to learn how to set up a robotics simulator, int
 6. **Setting Up a Camera Image Server** - ⏳ Coming soon
 
 
-### System Engineering organization
+## System Engineering organization
 Follow this google sheet to get all information.
 [See Table](https://docs.google.com/spreadsheets/d/1Sro5dz5PTesyRuniJhez1GMf9z3j0gr0b48JlsBDI-k/edit?usp=sharing)
 
