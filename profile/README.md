@@ -21,6 +21,16 @@ In this part of the course, you will learn how to:
 **🎥 Video Tutorials: Unity and ROS 2**
 Follow this French video series to learn how to set up a robotics simulator, integrate it with ROS 2, and develop a complete software architecture for autonomous robots.
 
+### ROS2 cheat-sheet
+- **ROS2:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261020_IS_ros2.pdf)
+
+
+### AUV Mechanical and Electronic Design
+This section covers the key mechanical and electronic concepts involved in the design of an Autonomous Underwater Vehicle (AUV).
+- **Mechanical design:** Course materials coming soon
+- **Electronics:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/251028_coursElec.pdf)
+
+
 ## 🎥 Video Tutorials: Unity and ROS 2
 
 Follow this French video series to learn how to set up a robotics simulator, integrate it with ROS 2, and develop a complete software architecture for autonomous robots.
@@ -52,20 +62,11 @@ Follow this French video series to learn how to set up a robotics simulator, int
 5. **Publishing Velocity Commands (Twist)** - ⏳ Coming soon
 6. **Setting Up a Camera Image Server** - ⏳ Coming soon
 
-### ROS2 cheat-sheet
-- **ROS2:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/261020_IS_ros2.pdf)
-
-
-### AUV Mechanical and Electronic Design
-This section covers the key mechanical and electronic concepts involved in the design of an Autonomous Underwater Vehicle (AUV).
-- **Mechanical design:** Course materials coming soon
-- **Electronics:** — ▶️ [Lecture slides (PDF)](https://github.com/Ingenierie-Systeme/.github/tree/main/educational_ressources/2026/251028_coursElec.pdf)
-
-
 
 ### System Engineering organization
 Follow this google sheet to get all information.
 [See Table](https://docs.google.com/spreadsheets/d/1Sro5dz5PTesyRuniJhez1GMf9z3j0gr0b48JlsBDI-k/edit?usp=sharing)
+
 ## 👥 Student projects
 
 Each group has its own repository.
