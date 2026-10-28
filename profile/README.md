@@ -70,7 +70,10 @@ Follow this google sheet to get all information.
 
 Each group has its own repository.
 
-- [Group 01](https://github.com/Ingenierie-Systeme/.github/)
-- [Group 02](https://github.com/Ingenierie-Systeme/.github/)
+- [Brazilian Team](https://github.com/Ingenierie-Systeme/brazilian-team-repo)
+- [Irys Team](https://github.com/Ingenierie-Systeme/irys-team-repo)
+- [Baby Shark Team](https://github.com/Ingenierie-Systeme/baby-shark-team-repo)
+- [Team United](https://github.com/Ingenierie-Systeme/united-team-repo)
+
 
     
