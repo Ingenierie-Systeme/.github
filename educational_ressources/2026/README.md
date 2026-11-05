@@ -34,13 +34,6 @@ Video and/or GIF and/or images of the finished project.
 ### 3D dynamics model
 Diagram of the forces/torques, some equations etc.
 
-### ROS2 Software architecture
-Node graph and/or software architecture diagram + text
-
-### How to launch
-Lien vers un README.md détaillé des commandes à lancer pour lancer la simu, ROS2 etc.
-
-
 
 
 
@@ -59,13 +52,29 @@ Mechanical architecture diagram + text
 ### Electronical architecture
 Electronical architecture diagram + text
 
-### How to launch
+
+
+
+
+
+
+
+## Simulation To Reality
+
+### What is it ?
+Presentation of the concept
+Presentation of a common diagram Simulation and Reality
+
+### How to launch Simulation
+Lien vers un README.md détaillé des commandes à lancer pour lancer la simu, ROS2 etc.
+
+
+### How to launch Real robot
 Identifiant + mot de passe de la Raspberry PI. 
 Connexion en SSH
 Commandes pour lancer la simu en autonome et/ou en manuel
 
 Lien vers un README.md détaillé des commandes à lancer pour se mettre en SSH, lancer la mission etc.
-
 
 
 
