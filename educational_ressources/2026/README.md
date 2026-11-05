@@ -63,7 +63,8 @@ Electronical architecture diagram + text
 
 ### What is it ?
 Presentation of the concept
-Presentation of a common diagram Simulation and Reality
+Presentation of ROS2 architecture 
+Common diagram Simulation and Reality
 
 ### How to launch Simulation
 Lien vers un README.md détaillé des commandes à lancer pour lancer la simu, ROS2 etc.
