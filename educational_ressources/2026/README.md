@@ -25,7 +25,7 @@ Presentation de l'étude financière : graphique camembert avec matériel sépar
 + Lien vers l'excel qui détaille tout
 
 
-## 3D Dynamical Realistic Time AUV and its environment
+## Unity-ROS2 : 3D Dynamical Realistic Time AUV Simulation and its environment
 
 ### Overview
 Video and/or GIF and/or images of the finished project.
